@@ -16,7 +16,7 @@
 ### 3. Gestió amb Git
 
 1. 
-2. El propòsit del projecte es aprendre a utilitzar git i totes les seves funcionalitats
+2. 
 3. 
 4. 
 5. 
@@ -25,7 +25,7 @@
 
 1. 
 2. 
-3. 
+3. El propòsit del projecte es aprendre a utilitzar git i totes les seves funcionalitats
 4. 
 
 ### 5. Remot i publicació
